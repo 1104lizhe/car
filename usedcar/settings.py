@@ -82,9 +82,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'Usedcar',
         'USER': 'root',
-        'HOST': '127.0.0.1',
+        'HOST': 'db',
         'POST': 3306,
-        'PASSWORD': '123456',
+        'PASSWORD': 'root',
     }
 }
 
