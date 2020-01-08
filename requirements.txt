@@ -13,7 +13,7 @@ crypto==1.4.1
 cryptography==2.8
 Django==2.1.4
 django-mysql-pymysql==0.1
-Flask==0.10.1
+Flask==1.0
 Flask-pymysql==0.2.3
 Flask-SQLAlchemy==2.0
 get==2019.4.13
