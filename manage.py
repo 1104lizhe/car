@@ -4,6 +4,7 @@ import sys
 import random
 import math
 import time
+import datetime
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "usedcar.settings")
