@@ -12,6 +12,7 @@ import logging
 import random
 import json
 # Create your views here.csrf_protect
+# 测试git
 
 auth_check = 'MarcelArhut'
 
