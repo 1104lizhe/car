@@ -20,7 +20,7 @@ get==2019.4.13
 html-testRunner==1.2
 idna==2.7
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 key==0.4
 kombu==3.0.35
 lxml==4.3.4
